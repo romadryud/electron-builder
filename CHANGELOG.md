@@ -1,3 +1,18 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.5.1...v) (2022-09-23)
+
+
+### Bug Fixes
+
+* formatting of Code in the MacOS PKG docs ([#7142](https://github.com/electron-userland/electron-builder/issues/7142)) ([9338097](https://github.com/electron-userland/electron-builder/commit/9338097a9f6754dee8d87185154eaa7d9cffdec8))
+
+
+### Features
+
+* add Github Actions environment variable to isPullRequest method ([#7152](https://github.com/electron-userland/electron-builder/issues/7152)) ([4583273](https://github.com/electron-userland/electron-builder/commit/4583273ebe5cabfd1c14f647dc9edb7bff3c3bf3))
+* add nsis option `removeDefaultUninstallWelcomePage` to remove the default uninstall welcome page ([#7141](https://github.com/electron-userland/electron-builder/issues/7141)) ([d71a579](https://github.com/electron-userland/electron-builder/commit/d71a5790a94cd56b6e033b656b4892ec31f14b9d))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.5.0...v) (2022-09-08)
 
 
